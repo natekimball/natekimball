@@ -45,7 +45,7 @@ You can find me here:
 
 <!-- Frameworks -->
 ### Frameworks & Libraries: 
-1[SQLite](https://img.shields.io/badge/sqlite-informational?style=for-the-badge&logo=sqlite&logoColor=red&color=black)
+![SQLite](https://img.shields.io/badge/sqlite-informational?style=for-the-badge&logo=sqlite&logoColor=red&color=black)
 ![JUnit](https://img.shields.io/badge/junit-informational?style=for-the-badge&logo=junit&logoColor=red&color=blue)
 ![Mockito](https://img.shields.io/badge/mockito-informational?style=for-the-badge&logo=mockito&logoColor=blue&color=purple)
 ![Ruby on Rails](https://img.shields.io/badge/Ruby%20on%20rails-informational?style=for-the-badge&logo=rubyOnRails&logoColor=white&color=ff3333)
