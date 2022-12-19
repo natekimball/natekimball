@@ -35,7 +35,7 @@ You can find me here:
 <!-- Coding Languages -->
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C/C++](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C/C++](https://img.shields.io/badge/C/C++-informational?style=for-the-badge&logo=c&logoColor=black)
 ![Rust](https://img.shields.io/badge/Rust-informational?style=for-the-badge&logo=Rust&logoColor=black&color=red)
 ![Golang](https://img.shields.io/badge/golang-informational?style=for-the-badge&logo=go&logoColor=blue&color=white)
 ![Ruby](https://img.shields.io/badge/ruby-informational?style=for-the-badge&logo=ruby&logoColor=red&color=black)
