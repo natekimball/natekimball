@@ -68,4 +68,4 @@ You can find me here:
 
 <!-- Links to your social media accounts -->
 
-[1]: https://www.linkedin.com/in/natekimball/
+[1]: https://www.linkedin.com/in/nathanielkimball/
