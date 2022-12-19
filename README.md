@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hello, all! <img src="https://media.licdn.com/dms/image/C4D03AQHR0Zlleq5dgA/profile-displayphoto-shrink_800_800/0/1592542196864?e=1677110400&v=beta&t=QsJ9MyrqdBvtSC1IVFBW0dT4XbAXhzHFbPqnt108_3A" width="30px">
+# Hello, all! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 **Work Experience**
 - 2023 Global Technology Summer Analyst at Bank of America
