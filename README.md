@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - 2020 Data Analyst Intern at Songclip
 
 **About my Education**
-- Student at the University of Virginia School of Engineering and Applied Science, majoring in Computer Science and minoring in Applied Mathematics
+- Third year student at the University of Virginia School of Engineering and Applied Science, majoring in Computer Science and minoring in Applied Mathematics
 
 You can find me here:
 
