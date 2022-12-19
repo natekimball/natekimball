@@ -45,6 +45,7 @@ You can find me here:
 
 <!-- Frameworks -->
 ### Frameworks & Libraries: 
+![FastAPI](https://img.shields.io/static/v1?style=for-the-badge&message=FastAPI&color=009688&logo=FastAPI&logoColor=FFFFFF&label=)
 ![SQLite](https://img.shields.io/badge/sqlite-informational?style=for-the-badge&logo=sqlite&logoColor=red&color=black)
 ![JUnit](https://img.shields.io/badge/junit-informational?style=for-the-badge&logo=junit&logoColor=red&color=blue)
 ![Mockito](https://img.shields.io/badge/mockito-informational?style=for-the-badge&logo=mockito&logoColor=blue&color=purple)
@@ -55,6 +56,8 @@ You can find me here:
 ## 🔧 Technologies & Tools
 ![Git](https://img.shields.io/badge/Git-informational?style=for-the-badge&logo=git&logoColor=red&color=black)
 ![GitHub](https://img.shields.io/badge/github-informational?style=for-the-badge&logo=github&logoColor=white&color=black)
+![AWS Lambda](https://img.shields.io/static/v1?style=for-the-badge&message=AWS+Lambda&color=222222&logo=AWS+Lambda&logoColor=FF9900&label=)
+![Amazon API Gateway](https://img.shields.io/static/v1?style=for-the-badge&message=Amazon+API+Gateway&color=FF4F8B&logo=Amazon+API+Gateway&logoColor=FFFFFF&label=)
 ![Docker](https://img.shields.io/badge/docker-informational?style=for-the-badge&logo=docker&logoColor=blue&color=777777)
 ![VS Code](https://img.shields.io/badge/VS%20Code-informational?style=for-the-badge&logo=visualstudio&logoColor=blue&color=white)
 ![IntelliJ](https://img.shields.io/badge/intellij-informational?style=for-the-badge&logo=intellij&logoColor=blue&color=0000ff)
